@@ -36,8 +36,6 @@
     </table>
 </div>
 
-<br />
-
 Me especializo en la arquitectura y desarrollo de productos escalables, donde mi prioridad es entregar valor real al usuario. Si bien mi núcleo de desarrollo está basado en el ecosistema de TypeScript y JavaScript, opero bajo una mentalidad tecnológica agnóstica: evalúo, selecciono y me adapto a las herramientas que resuelvan de manera más eficiente los retos de cada negocio.
 
 <br />
