@@ -1,42 +1,44 @@
 <a href="https://eajuarezc.com" target="_blank" rel="noopener noreferrer">
-    <img src="assets/github-banner-2.0.svg" alt="eajuarezc.com" />
+    <img src="assets/github-banner.svg" alt="eajuarezc.com" />
 </a>
 
 <br />
 
 <div>
-    <h1>eajuarezc-software-engineer 🐦‍🔥</h1>
-    <table border="0" height="64">
+    <h1>eajuarezc-software-engineer 🔬</h1>
+    <table height="64">
         <tr>
-        <td>
-            <a
-            href="https://eajuarezc.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            >
-            <img
-                src="https://img.shields.io/badge/Proyectos_Freelance-Contactame-0a0a0a?style=for-the-badge"
-                alt="Freelance Available"
-            />
-            </a>
-        </td>
-        <td>
-            <img
-            src="https://img.shields.io/badge/Disponible_Para_Empleo-Inmediato-0a0a0a?style=for-the-badge"
-            alt="Available for Hire"
-            />
-        </td>
-        <td>
-            <img
-            src="https://img.shields.io/badge/Modalidad-Remoto_/_Presencial-0a0a0a?style=for-the-badge"
-            alt="Remote and On-site"
-            />
-        </td>
+            <td>
+                <a
+                href="https://eajuarezc.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                >
+                <img
+                    src="https://img.shields.io/badge/Proyectos_Freelance-Contactame-0a0a0a?style=for-the-badge"
+                    alt="Freelance Available"
+                />
+                </a>
+            </td>
+            <td>
+                <img
+                src="https://img.shields.io/badge/Disponible_Para_Empleo-Inmediato-0a0a0a?style=for-the-badge"
+                alt="Available for Hire"
+                />
+            </td>
+            <td>
+                <img
+                src="https://img.shields.io/badge/Modalidad-Remoto_/_Presencial-0a0a0a?style=for-the-badge"
+                alt="Remote and On-site"
+                />
+            </td>
         </tr>
     </table>
 </div>
 
-Me especializo en la arquitectura y desarrollo de productos escalables, donde la prioridad es entregar valor real al usuario. Aunque mi núcleo de desarrollo está basado en el ecosistema de **TypeScript y JavaScript**, opero bajo una mentalidad tecnológica agnóstica: evalúo, selecciono y me adapto a las herramientas que resuelvan de manera más eficiente los retos de cada negocio.
+<br />
+
+Me especializo en la arquitectura y desarrollo de productos escalables, donde mi prioridad es entregar valor real al usuario. Si bien mi núcleo de desarrollo está basado en el ecosistema de TypeScript y JavaScript, opero bajo una mentalidad tecnológica agnóstica: evalúo, selecciono y me adapto a las herramientas que resuelvan de manera más eficiente los retos de cada negocio.
 
 <br />
 
